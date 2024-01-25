@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package format="2">
+    <name>cmake_library</name>
+    <version>0.1.0</version>
+    <description>The cmake_library package</description>
+
+    <maintainer email="bartosovic@photoneo.com">Matej Bartosovic</maintainer>
+    <license>MIT</license>
+    <author email="bartosovic@photoneo.com">Matej Bartosovic</author>
+
+    <buildtool_depend>cmake</buildtool_depend>
+
+    <export>
+        <build_type>cmake</build_type>
+    </export>
+</package>
